@@ -1,0 +1,15 @@
+*{
+    font-family: "segoe ui light";
+}
+button{
+    color: #fff !important;
+    text-transform: capitalize;
+}
+button:hover{
+opacity: 0.8;
+
+}
+
+img{
+    width: 80px;
+}
